@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/announcementCtrl/createAnnouncement.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/syllabusCtrl/createSyllabus.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/DAO/syllabusDAO.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/courses.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/DAO/userDAO.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/courseCtrl/createCourse.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/model/Syllabus.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/templates/footer.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/index.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/courseAnnouncements.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/courseCtrl/viewCourses.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/DAO/courseDAO.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/css/style.css</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/model/User.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/courseSyllabus.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/templates/menu.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/announcementCtrl/deleteAnnouncement.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/syllabusCtrl/editSyllabus.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/model/Announcement.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/courseCtrl/removeCourse.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/announcementCtrl/viewAnnouncements.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/userCtrl/login.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/syllabusCtrl/deleteSyllabus.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/DAO/announcementDAO.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/userCtrl/seeUsersEnrolled.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/users.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/courseCtrl/assignUserCourse.java</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/web/dashboard.jsp</file>
+            <file>file:/C:/Users/Felipe%20Padua/Dropbox/Grad-School/UMD/0-FALL2017/ENPM613/SW-Project/Implementation/LOL/src/java/controller/syllabusCtrl/viewSyllabus.java</file>
+        </group>
+    </open-files>
+</project-private>
